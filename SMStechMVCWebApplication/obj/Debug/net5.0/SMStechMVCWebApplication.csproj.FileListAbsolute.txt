@@ -82,3 +82,4 @@ C:\WEB APPS\SMSTech\SMStechMVCWebApplication\SMStechMVCWebApplication\obj\Debug\
 C:\WEB APPS\SMSTech\SMStechMVCWebApplication\SMStechMVCWebApplication\obj\Debug\net5.0\ref\SMStechMVCWebApplication.dll
 C:\WEB APPS\SMSTech\SMStechMVCWebApplication\SMStechMVCWebApplication\obj\Debug\net5.0\SMStechMVCWebApplication.pdb
 C:\WEB APPS\SMSTech\SMStechMVCWebApplication\SMStechMVCWebApplication\obj\Debug\net5.0\SMStechMVCWebApplication.genruntimeconfig.cache
+C:\WEB APPS\SMSTech\SMStechMVCWebApplication\SMStechMVCWebApplication\obj\Debug\net5.0\SMStechMVCWebApplication.csproj.AssemblyReference.cache
